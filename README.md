@@ -22,6 +22,11 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 <br />-USART
 <br />-SPI
 
+## Pinagem
+![Slide2](https://user-images.githubusercontent.com/56704375/70345776-8911be80-183b-11ea-8b6c-712039b9c05b.PNG)
+![Slide1](https://user-images.githubusercontent.com/56704375/70345649-494ad700-183b-11ea-9e68-0fd60f4563db.PNG)
+
+
 ## Possíveis melhorias:
 -Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
 <br />-A implementação de 3 erros para a senha-mestre.Utilização de um banco de dados para armazenagem dos dados mais segura.
