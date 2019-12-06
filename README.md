@@ -36,7 +36,8 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 
 ## Problemas Encontrados:
 -Não foi possível adicionar mais funcionalidades, pois o sistema utiliza 4Bits para enviar dados.
-<br />-A implementação da hora de chegada não foi possível, pois a função utilizada não funciona na GreenPill porque ela excede o espaço da memória flash.
+<br />-A implementação da hora de chegada não foi possível, pois o a função utilizada não funciona na GreenPill porque ela excede o espaço da memória flash.
+<br />-Um dos principais problemas foi a comunicação entre as duas GreenPill, onde para contornar esse impecilho tivemos que enviar bits a partir de 4Portas da "Placa1" para a "Placa2", e assim ser possível fazer essa transmissão de dados.
 
 
 ## Membros:
