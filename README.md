@@ -1,5 +1,6 @@
 ![Portaria_Inteligente](https://user-images.githubusercontent.com/56705850/70350809-41446480-1846-11ea-9ec0-62768f8ce882.png)
 
+
 # Access Control
 O objetivo do projeto é usar um teclado matricial de membrana para realizar o acesso de pessoas em um condomínio. No sistema existem quatro usuários, cada qual com suas respectivas senhas. Para realizar a entrada, primeiramente é necessário a digitação da senha. Se estiver correta, a passagem é liberada e uma mensagem é enviada ao porteiro através de dispositivo bluetooth, informando o titular e apartamento do usuário. Também é possível fazer a redefinição de senhas (com informação ao porteiro por bluetooth), sendo exigida uma senha mestre para verificação de autenticidade. No caso em que houver sucessivas falhas na tentativa de entrada, o sistema será travado, sendo necessária  a presença do porteiro para inserção da senha-mestre, gerando o destravamento do sistema.
 Em cada etapa os leds acedem de forma única informando o funcionamento do programa com base na mensagem apresentada ao usuário.
@@ -8,6 +9,7 @@ Por exemplo, quando a senha é verificada como correta o led azul acende, indica
 
 ## Aplicações:
 Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, tais como: empresas, escolas, condomínios, residências; mostrando assim a versatilidade do sistema, sendo necessária fazer apenas poucas alterações para que ele funcione perfeitamente nesses locais.
+
 
 ## Materiais utilizados:
 -2x STM32F030F4P6 (GREENPILL)
@@ -24,9 +26,14 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 <br />-USART
 <br />-SPI
 
+
 ## Pinagem
 ![Slide2](https://user-images.githubusercontent.com/56704375/70345776-8911be80-183b-11ea-8b6c-712039b9c05b.PNG)
 ![Slide1](https://user-images.githubusercontent.com/56704375/70345649-494ad700-183b-11ea-9e68-0fd60f4563db.PNG)
+
+
+## Fluxograma de entrada
+![Fluxograma](https://user-images.githubusercontent.com/56705850/70352146-3a6b2100-1849-11ea-8d6c-a3dcadfaabbf.jpeg)
 
 
 ## Possíveis melhorias:
