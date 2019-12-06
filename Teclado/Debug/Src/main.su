@@ -1,0 +1,11 @@
+main.c:85:5:main	88	static
+main.c:295:6:SystemClock_Config	72	static
+main.c:329:13:MX_GPIO_Init	40	static
+main.c:369:5:comp	24	static
+main.c:382:6:copy	24	static
+main.c:390:6:Estrela1	8	static
+main.c:397:6:Estrela2	8	static
+main.c:403:6:Estrela3	8	static
+main.c:411:6:Estrelas	16	static
+main.c:429:6:MandaBits	16	static
+main.c:554:6:Error_Handler	8	static

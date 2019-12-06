@@ -1,0 +1,4 @@
+TecladoFuncoes.c:3:6:scanForClick	40	static
+TecladoFuncoes.c:27:5:colPressed	24	static
+TecladoFuncoes.c:37:6:getDigito	40	static
+TecladoFuncoes.c:46:6:numPressed	40	static
