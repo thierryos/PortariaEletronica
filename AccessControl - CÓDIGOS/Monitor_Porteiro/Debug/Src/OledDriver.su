@@ -1,0 +1,15 @@
+OledDriver.c:179:1:OledInit	8	static
+OledDriver.c:218:1:OledTerm	8	static
+OledDriver.c:251:1:OledHostInit	8	static
+OledDriver.c:291:1:OledHostTerm	8	static
+OledDriver.c:331:1:OledDvrInit	16	static
+OledDriver.c:383:1:OledDevInit	8	static
+OledDriver.c:452:1:OledDevTerm	8	static
+OledDriver.c:488:1:OledDisplayOn	8	static
+OledDriver.c:513:1:OledDisplayOff	8	static
+OledDriver.c:538:1:OledClear	8	static
+OledDriver.c:563:1:OledClearBuffer	16	static
+OledDriver.c:595:1:OledUpdate	16	static
+OledDriver.c:646:1:OledPutBuffer	24	static
+OledDriver.c:679:1:Spi2PutByte	16	static
+OledDriver.c:690:6:digitalWrite	16	static

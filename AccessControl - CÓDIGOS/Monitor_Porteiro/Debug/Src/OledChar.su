@@ -1,0 +1,9 @@
+OledChar.c:119:1:OledSetCursor	16	static
+OledChar.c:161:1:OledGetCursor	16	static
+OledChar.c:190:1:OledDefUserChar	24	static
+OledChar.c:228:1:OledSetCharUpdate	16	static
+OledChar.c:252:1:OledGetCharUpdate	8	static
+OledChar.c:277:1:OledPutChar	16	static
+OledChar.c:306:1:OledPutString	16	static
+OledChar.c:341:1:OledDrawGlyph	32	static
+OledChar.c:385:1:OledAdvanceCursor	8	static
