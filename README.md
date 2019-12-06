@@ -5,15 +5,15 @@ Por exemplo, quando a senha é verificada como correta o led azul acende, indica
 
 
 ## Aplicações:
-Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, tais como empresas, escolas, condomínios, residências, mostrando assim a versatilidade do sistema, sendo necessária fazer apenas poucas alterações para que ele funcione perfeitamente nesses locais.
+Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, tais como: empresas, escolas, condomínios, residências; mostrando assim a versatilidade do sistema, sendo necessária fazer apenas poucas alterações para que ele funcione perfeitamente nesses locais.
 
 ## Materiais utilizados:
--STM32F030F4P6 (GREENPILL)
+-2x STM32F030F4P6 (GREENPILL)
 <br />-Gravador ST-LINK V2
 <br />-Display oLED
 <br />-Teclado matricial 4x4
 <br />-Módulo Bluetooth HC-05
-<br />-Dois LEDs
+<br />-2x LEDs
 <br />-Protoboard e jumpers
 
 
