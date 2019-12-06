@@ -1,3 +1,5 @@
+![Portaria_Inteligente](https://user-images.githubusercontent.com/56705850/70350809-41446480-1846-11ea-9ec0-62768f8ce882.png)
+
 # Access Control
 O objetivo do projeto é usar um teclado matricial de membrana para realizar o acesso de pessoas em um condomínio. No sistema existem quatro usuários, cada qual com suas respectivas senhas. Para realizar a entrada, primeiramente é necessário a digitação da senha. Se estiver correta, a passagem é liberada e uma mensagem é enviada ao porteiro através de dispositivo bluetooth, informando o titular e apartamento do usuário. Também é possível fazer a redefinição de senhas (com informação ao porteiro por bluetooth), sendo exigida uma senha mestre para verificação de autenticidade. No caso em que houver sucessivas falhas na tentativa de entrada, o sistema será travado, sendo necessária  a presença do porteiro para inserção da senha-mestre, gerando o destravamento do sistema.
 Em cada etapa os leds acedem de forma única informando o funcionamento do programa com base na mensagem apresentada ao usuário.
